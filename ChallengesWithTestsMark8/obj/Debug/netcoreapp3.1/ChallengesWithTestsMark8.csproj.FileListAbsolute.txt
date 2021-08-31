@@ -1,0 +1,13 @@
+/Users/Joey/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp3.1/ChallengesWithTestsMark8.csproj.AssemblyReference.cache
+/Users/Joey/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp3.1/ChallengesWithTestsMark8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Joey/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp3.1/ChallengesWithTestsMark8.AssemblyInfoInputs.cache
+/Users/Joey/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp3.1/ChallengesWithTestsMark8.AssemblyInfo.cs
+/Users/Joey/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp3.1/ChallengesWithTestsMark8.csproj.CoreCompileInputs.cache
+/Users/Joey/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/netcoreapp3.1/ChallengesWithTestsMark8.deps.json
+/Users/Joey/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/netcoreapp3.1/ChallengesWithTestsMark8.runtimeconfig.json
+/Users/Joey/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/netcoreapp3.1/ChallengesWithTestsMark8.runtimeconfig.dev.json
+/Users/Joey/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/netcoreapp3.1/ChallengesWithTestsMark8.dll
+/Users/Joey/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/netcoreapp3.1/ChallengesWithTestsMark8.pdb
+/Users/Joey/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp3.1/ChallengesWithTestsMark8.dll
+/Users/Joey/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp3.1/ChallengesWithTestsMark8.pdb
+/Users/Joey/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp3.1/ChallengesWithTestsMark8.genruntimeconfig.cache
