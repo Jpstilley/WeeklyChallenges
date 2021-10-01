@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace ChallengesWithTestsMark8
@@ -12,14 +13,12 @@ namespace ChallengesWithTestsMark8
 
         public int GetLengthOfShortestString(string str1, string str2, string str3, string str4)
         {
-            string[] words = { str1, str2, str3, str4 };
-            return words.OrderBy(word => word.Length).First().Length;
+            return new List<string>() { str1, str2, str3, str4 }.OrderBy(word => word.Length).First().Length;
         }
 
         public int GetSmallestNumber(int number1, int number2, int number3, int number4)
         {
-            int[] nums = { number1, number2, number3, number4 };
-            return nums.OrderBy(number => number).First();
+            return new List<int>() { number1, number2, number3, number4 }.OrderBy(number => number).First();
         }
 
         public void ChangeBusinessNameTo_TrueCoders(Business biz)
@@ -29,13 +28,8 @@ namespace ChallengesWithTestsMark8
 
         public bool CouldFormTriangle(int sideLength1, int sideLength2, int sideLength3)
         {
-            int[] sides = { sideLength1, sideLength2, sideLength3 };
-            if (!sides.Contains(0))
-            {
-                sides = sides.OrderBy(side => side).ToArray();
-                return (sides[0] + sides[1] > sides[2]);
-            }
-            return false;  
+            var sides = new List<int>(){ sideLength1, sideLength2, sideLength3 }.OrderBy(side => side).ToList();
+            return !sides.Contains(0) && (sides[0] + sides[1] > sides[2]);  
         }
 
         public bool IsStringANumber(string input)
