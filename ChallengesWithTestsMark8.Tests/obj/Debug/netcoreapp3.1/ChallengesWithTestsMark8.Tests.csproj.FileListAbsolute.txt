@@ -10,8 +10,6 @@
 /Users/Joey/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/netcoreapp3.1/ChallengesWithTestsMark8.Tests.dll
 /Users/Joey/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/netcoreapp3.1/ChallengesWithTestsMark8.Tests.pdb
 /Users/Joey/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll
-/Users/Joey/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
-/Users/Joey/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
 /Users/Joey/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll
 /Users/Joey/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll
 /Users/Joey/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
@@ -20,7 +18,6 @@
 /Users/Joey/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll
 /Users/Joey/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/netcoreapp3.1/testhost.dll
 /Users/Joey/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
-/Users/Joey/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
 /Users/Joey/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/netcoreapp3.1/xunit.abstractions.dll
 /Users/Joey/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/netcoreapp3.1/xunit.assert.dll
 /Users/Joey/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/netcoreapp3.1/xunit.core.dll
@@ -101,3 +98,5 @@
 /Users/Joey/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/netcoreapp3.1/ChallengesWithTestsMark8.Tests.dll
 /Users/Joey/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/netcoreapp3.1/ChallengesWithTestsMark8.Tests.pdb
 /Users/Joey/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/netcoreapp3.1/ChallengesWithTestsMark8.Tests.genruntimeconfig.cache
+/Users/Joey/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll
+/Users/Joey/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll

@@ -19,7 +19,7 @@ namespace ChallengesWithTestsMark8.Tests
         [InlineData(new string[] { "alpha", "bravo", "charlie" }, "delta", true, false)]
         [InlineData(new string[] { null, "bravo", "charlie" }, "braVo", false, false)]
         [InlineData(new string[] { null, "bravo", "chArlie" }, "charliE", false, false)]
-        [InlineData(new string[] { null, null, "charlie" }, "bravo", true, false)]
+        [InlineData(new string[] { null, null, "charlie" }, "bravo", false, false)]
         [InlineData(null, "alpha", true, false)]
         public void CollectionContainsWord(IEnumerable<string> words, string word, bool ignoreCase, bool expected)
         {

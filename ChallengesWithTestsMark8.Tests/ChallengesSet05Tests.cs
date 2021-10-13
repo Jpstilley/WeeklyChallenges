@@ -142,7 +142,7 @@ namespace ChallengesWithTestsMark8.Tests
         }
 
         [Theory]
-        [InlineData(new[] { 1d, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 }, new[] { 4d, 8, 12, 16 })]
+        [InlineData(new[] { 1d, 2, 3, 5, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 }, new[] { 5d, 8, 12, 16 })]
         [InlineData(new[] { 1d, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 }, new[] { 4d, 8, 12 })]
         [InlineData(new[] { 1d, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 }, new[] { 4d, 8, 12 })]
         [InlineData(new[] { 1d, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 }, new[] { 4d, 8 })]

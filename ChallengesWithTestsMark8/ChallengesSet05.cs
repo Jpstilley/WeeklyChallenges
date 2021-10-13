@@ -43,12 +43,12 @@ namespace ChallengesWithTestsMark8
             {
                 words.Where(word => word.Trim() != "").ToList().ForEach(word => answer += $"{word.Trim()} ");
             }
-            return (answer.Any()) ? answer.Trim() + "." : answer;
+            return (answer.Any()) ? $"{answer.Trim()}." : answer;
         }
 
         public double[] GetEveryFourthElement(List<double> elements)
         {
-            return (elements != null) ? elements.Where((element, index) => (index + 1) % 4 == 0).ToArray() : new List<double>().ToArray();
+            return (elements != null) ? elements.Where((element, index) => (index + 1) % 4 == 0).ToArray() : new double[] { };
         }
 
         public bool TwoDifferentElementsInArrayCanSumToTargetNumber(int[] nums, int targetNumber)
